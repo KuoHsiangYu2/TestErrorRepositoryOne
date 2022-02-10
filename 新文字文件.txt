@@ -1,0 +1,9 @@
+git commit
+
+https://stackoverflow.com/questions/16033158/use-of-apostrophe-single-quote-in-a-git-commit-message-via-command-line
+
+git commit -m 'cracked $enigma'"'"'s code'
+
+git commit -m 'cracked $enigma'\''s code'
+
+
