@@ -1,0 +1,7 @@
+﻿du -s --human-readable ./* | sort -h
+
+du -s .[^.]* --block-size=KB ./* | sort -h
+
+du -s .[^.]* --block-size=MB ./* | sort -h
+
+du -s .[^.]* --human-readable ./* | sort -h
