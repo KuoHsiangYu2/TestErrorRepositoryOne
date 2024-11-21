@@ -14,3 +14,4 @@ git commit -m 'cracked $enigma'\''s code'
 apple
 banana
 測試測試
+apple
