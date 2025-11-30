@@ -28,6 +28,12 @@ test02
 <br />
 <br />
 
+影片04_gif
+![Demo Video as GIF](video/_《野生的大魔王出現了！》10集_a08.gif)
+
+<br />
+<br />
+
 **bold_粗體字**
 
 <br />

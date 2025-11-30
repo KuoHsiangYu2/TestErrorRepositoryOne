@@ -1,5 +1,7 @@
 test_md
 
+![Demo Video as GIF](./path/to/your/video.gif)
+
 ### Request Method：POST
 
 ### API欄位說明：
