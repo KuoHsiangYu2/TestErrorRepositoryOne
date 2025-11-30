@@ -23,7 +23,7 @@ test02
 <br />
 影片03<br />
 
-[![觀看影片03](https://img.youtube.com/)](https://www.youtube.com/watch?v=4w0WhYpR2x4)
+![觀看影片03](https://www.youtube.com/watch?v=4w0WhYpR2x4)
 
 <br />
 <br />
