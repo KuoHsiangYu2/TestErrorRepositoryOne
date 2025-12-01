@@ -24,7 +24,7 @@ test02
 影片02-2 iframe 測試<br />
 
 <figure>
-    <iframe src="video/_《野生的大魔王出現了！》10集_a08.mp4" frameborder="0" allowfullscreen="true"> 
+    <iframe src="video/_《野生的大魔王出現了！》10集_a08.mp4"> 
     </iframe>
 </figure>
 
