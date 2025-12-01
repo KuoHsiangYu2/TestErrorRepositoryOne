@@ -21,9 +21,17 @@ test02
 ![Demo Video](video/_《野生的大魔王出現了！》10集_a08.mp4)
 
 <br />
-影片03<br />
+影片02-2 iframe 測試<br />
 
-![觀看影片03](https://www.youtube.com/watch?v=4w0WhYpR2x4)
+<figure>
+    <iframe src="video/_《野生的大魔王出現了！》10集_a08.mp4" frameborder="0" allowfullscreen="true"> 
+    </iframe>
+</figure>
+
+<br />
+影片03_YouTube連結<br />
+
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=4w0WhYpR2x4)
 
 <br />
 <br />
