@@ -23,10 +23,10 @@ test02
 <br />
 影片02-2 iframe 測試<br />
 
-<figure>
-    <iframe src="video/_《野生的大魔王出現了！》10集_a08.mp4"> 
-    </iframe>
-</figure>
+
+<iframe src="video/_《野生的大魔王出現了！》10集_a08.mp4"> 
+</iframe>
+
 
 <br />
 影片03_YouTube連結<br />
