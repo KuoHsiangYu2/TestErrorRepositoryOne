@@ -55,13 +55,15 @@ https://github.com/user-attachments/assets/3c9d87a6-9f61-424d-ac26-1dc324ed260e
 <h4>影片06</h4>
 <h4>設計師VS工程師 影片</h4>
 
-
-
 https://github.com/user-attachments/assets/95831ffc-f641-408f-b6a9-312ea034f46a
 
-
-
 <br />
+<br />
+
+<h4>影片07</h4>
+
+https://github.com/user-attachments/assets/aa1013c2-a756-4910-aae1-ad2480a995f9
+
 <br />
 
 **bold_粗體字**
