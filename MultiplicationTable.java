@@ -8,7 +8,6 @@ public class MultiplicationTable {
                 out.printf("%d×%d=%02d ", j, i, (j * i));
             }
             out.println();
-            out.println();
         }
     }
 }
