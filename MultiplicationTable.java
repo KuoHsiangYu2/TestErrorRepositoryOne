@@ -9,7 +9,6 @@ public class MultiplicationTable {
             }
             out.println();
             out.println();
-            out.println();
         }
     }
 }
