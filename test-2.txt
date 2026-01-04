@@ -1,4 +1,4 @@
-國字a
+﻿國字a
 test-2
 UTF-8檔首沒有BOM
 測試一
@@ -13,3 +13,8 @@ UTF-8檔首沒有BOM
 
 測試惡
 測試善
+
+記憶體惹禍、華碩驚傳退出手機市場？ 公司證實：今年無新機發表 保修不受影響 | 太報 | LINE TODAY
+https://liff.line.me/1454987169-1WAXAP3K/v3/article/l25Lax0?utm_source=lineshare
+.
+
