@@ -1,0 +1,9 @@
+							Large_cgurl = new Array(); 
+							Large_cgurl[1] = "https://hahost10.imgstream2.com/15411/01.jpg";
+Large_cgurl[2] = "https://hahost2.imgstream10.com/15411/02.jpg";
+Large_cgurl[3] = "https://hahost2.imgstream10.com/15411/03.jpg";
+Large_cgurl[4] = "https://hahost2.imgstream10.com/15411/04.jpg";
+Large_cgurl[5] = "https://hahost2.imgstream10.com/15411/05.jpg";
+widthtemp = 1000;							
+							
+						
