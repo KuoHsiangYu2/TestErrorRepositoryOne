@@ -1,0 +1,6 @@
+C:\jdk-11.0.22\bin\javaw.exe
+-Dfile.encoding=UTF-8
+-Dstdout.encoding=UTF-8
+-Dstderr.encoding=UTF-8
+-classpath .\bin com.hsiangyu.CalculatorTest2
+

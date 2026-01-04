@@ -1,0 +1,19 @@
+https://blog.miniasp.com/post/2022/10/16/How-to-compile-all-java-code-in-a-folder-recursively
+
+@ECHO OFF
+
+REM 準備一個暫存檔
+SET filelist=%cd%\filelist_%random%.txt
+::SET filelist=%temp%\filelist-%random%.txt
+
+REM 利用 dir /s /b 取得 src 目錄下(含子目錄)的 *.java 檔案清單
+dir /s /b src\*.java > %filelist%
+
+REM 直接透過 javac @filename 用法，將所有 Java 原始檔進行編譯，並透過 -d 指定輸出路徑(*.class)
+javac -encoding UTF-8 @%filelist% -sourcepath .\src\ -classpath . -d .\bin\
+
+REM 刪除暫存檔
+del %filelist%
+
+REM 刪除暫存檔檔名變數
+SET filelist=
