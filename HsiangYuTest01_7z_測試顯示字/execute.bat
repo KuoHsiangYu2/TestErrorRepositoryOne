@@ -1,0 +1,1 @@
+java -classpath .\bin com.testchar1.TestChar1

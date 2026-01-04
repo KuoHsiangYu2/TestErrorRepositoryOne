@@ -1,0 +1,1 @@
+javac -encoding UTF8 .\src\com\testchar1\TestChar1.java -d .\bin
