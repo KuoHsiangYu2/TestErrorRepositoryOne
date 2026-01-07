@@ -6,6 +6,9 @@ public class VendingGame {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String currentLocation = "街角"; // 中文輸出
+        System.out.print("scanner test: ");
+        String input01 = scanner.next();
+        System.out.println("[" + input01 + "]");
         // 確保CMD環境的UTF-8輸出
         try {
             // 嘗試設定Console輸出編碼，如果不行也無妨

@@ -1,7 +1,9 @@
 javac -version
 java -version
 
-javac -encoding UTF-8 VendingGame.java
-java VendingGame
+::chcp 65001
+::chcp 950
 
-pause
+chcp 65001 && javac -encoding UTF-8 VendingGame.java && java VendingGame
+
+::pause
