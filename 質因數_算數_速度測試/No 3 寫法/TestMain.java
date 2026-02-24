@@ -1,4 +1,4 @@
-package com.test.error01;
+// package com.test.error01;
 
 import static java.lang.System.out;
 
@@ -79,7 +79,7 @@ public class TestMain {
         }
         System.out.printf("\n");
         t2 = System.currentTimeMillis();
-        out.print("O網友 程式執行共花費：");
+        out.print("A3 O網友 程式執行共花費：");
         out.print((t2 - t1));
         out.println(" 豪秒");
         out.println("MainClass-end");

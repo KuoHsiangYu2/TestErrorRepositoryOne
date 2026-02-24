@@ -1,4 +1,4 @@
-package com.test.error02;
+// package com.test.error02;
 
 import static java.lang.System.out;
 
@@ -48,7 +48,7 @@ public class MainFinal {
 
         out.printf("\n");
         t2 = System.currentTimeMillis();
-        out.print("最佳 程式執行共花費：");
+        out.print("A2 程式執行共花費：");
         out.print((t2 - t1));
         out.println(" 豪秒");
         System.out.println();

@@ -1,4 +1,4 @@
-package com.test1;
+// package com.test1;
 
 import java.math.BigInteger;
 import java.util.Map;
@@ -25,6 +25,9 @@ public class FastFactorization {
         printFactorization(input, factors);
         long l02 = System.currentTimeMillis();
         System.out.println("D-07 currentTimeMillis_ " + (l02 - l01));
+        System.out.print("A1 程式執行共花費：");
+        System.out.print((l02 - l01));
+        System.out.println(" 豪秒");
     }
 
     // ===========================
