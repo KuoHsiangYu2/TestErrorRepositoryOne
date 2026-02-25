@@ -1,4 +1,4 @@
 ::javac -version
 ::java -version
 javac -encoding UTF-8 MainFinal.java
-java MainFinal
+execute.bat

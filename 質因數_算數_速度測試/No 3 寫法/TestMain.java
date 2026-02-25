@@ -55,25 +55,27 @@ public class TestMain {
                 b[k - 1] = count;
             }
         }
-        System.out.print("Answer -> ");
+        // System.out.print("Answer -> ");
+
+        // for (x = (k - 1); x >= 0; x--) {
+        //     if (x == 0) {
+        //         System.out.printf("%d^%d", a[x], b[x]);
+        //     } else {
+        //         System.out.printf("%d^%d × ", a[x], b[x]);
+        //     }
+        // }
+        // System.out.printf("\n");
+
+        boolean isNotFirst = false;
+        System.out.print(n2 + " = ");
         if (recognition == 1) {
             System.out.print("1^1");
         }
-        for (x = (k - 1); x >= 0; x--) {
-            if (x == 0) {
-                System.out.printf("%d^%d", a[x], b[x]);
-            } else {
-                System.out.printf("%d^%d × ", a[x], b[x]);
-            }
-        }
-        System.out.printf("\n");
-        boolean flag = false;
-        System.out.print(n2 + " = ");
         for (x = 0; x < k; x++) {
-            if (true == flag) {
+            if (true == isNotFirst) {
                 System.out.print(" × ");
             } else {
-                flag = true;
+                isNotFirst = true;
             }
             System.out.printf("%d^%d", a[x], b[x]);
         }
