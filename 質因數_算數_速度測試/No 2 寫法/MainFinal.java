@@ -23,7 +23,7 @@ public class MainFinal {
             System.out.println("finish");
             return;
         } else if (input < 1) {
-            System.out.println("error number");
+            System.out.printf("[%d] error number %n", input);
             System.out.println("finish");
             return;
         }
